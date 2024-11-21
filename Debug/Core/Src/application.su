@@ -1,0 +1,2 @@
+../Core/Src/application.cpp:15:6:void send_at_command(const char*)	16	static
+../Core/Src/application.cpp:20:6:void main_cpp()	16	static
